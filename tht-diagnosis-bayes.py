@@ -126,6 +126,10 @@ with st.sidebar:
         menu_icon="cast",
         default_index=0
     )
+    st.write("\n\n---")
+    st.write("Annisa Dian Fadillah - 231511004")
+    st.write("Rindi Indriani - 231511030")
+
 
 # Home Page
 if selected == "Home":
